@@ -11,6 +11,7 @@
 - Pablo S. (178564) - sal...@gmail.com
 - Francisco T. (195194) - fra...@gmail.com
 - Abril C. (206104) - aec...@gmail.com
+- Matias S. F. (195238) - mat...@gmail.com
 
 # Contexto / Escenario
 
